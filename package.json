@@ -1,5 +1,5 @@
 {
-    "name": "@mslabosz/aws-kinesis-agg3",
+    "name": "@slabosz.m/aws-kinesis-agg3",
     "description": "This is fork of aws-kinesis-agg for testing",
     "version": "0.1.0",
     "homepage": "https://github.com/slaboszm/aws-kinesis-agg3",
